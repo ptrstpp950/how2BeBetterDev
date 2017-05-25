@@ -4,4 +4,4 @@
 - Prezentacje oszukują
 - Brak odbioru obniża morale
 - Proste problemy => katastrofa
-- Organizacja nie jest trwała
+- Struktura organizacyjna nie jest trwała
