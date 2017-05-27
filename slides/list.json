@@ -1,6 +1,7 @@
 [
     "index.md",
     [
+        "01-ja/00-craftmen.md",
         "01-ja/01-pradziad.leon.md",
         "01-ja/02-pradziad.leopold.md",
         "01-ja/03-most.md",
@@ -32,9 +33,14 @@
         "05-nowyMBank/04-nauka.md"
     ],
     [
-        "07-projektM/01-projekt.md",
-        "07-projektM/02-techmologie.md",
-        "07-projektM/04-nauka.md"
+        "06-projektM/01-projekt.md",
+        "06-projektM/02-techmologie.md",
+        "06-projektM/04-nauka.md"
+    ],
+    [
+        "07-manager/01-index.md",
+        "07-manager/02-manager.md",
+        "07-manager/03-nauka.md"
     ],
     [
         "08-wiedza/01-index.md",
@@ -45,8 +51,7 @@
         "08-wiedza/05-szkolenia.md",
         "08-wiedza/06-zespol.md",
         "08-wiedza/07-mistrz.md",
-        "08-wiedza/08-inne.md",
-        "08-wiedza/slide-title.html"
+        "08-wiedza/08-inne.md"
     ],
     [
         "09-kasa/01-zarobki.md",

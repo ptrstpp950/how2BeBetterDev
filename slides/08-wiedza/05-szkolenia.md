@@ -1,5 +1,4 @@
-
-## Szkolenia
+![](/resources/img/devwarszaty.jpg)
 
 - szkolenia płatne
 - meeetupy
