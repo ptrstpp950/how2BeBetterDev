@@ -1,4 +1,4 @@
 ## Happy
 
-![](/resources/img/john-lenon-happy.jpg)
+![](./resources/img/john-lenon-happy.jpg)
 

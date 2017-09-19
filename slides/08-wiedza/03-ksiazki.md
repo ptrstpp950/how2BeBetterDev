@@ -1,7 +1,7 @@
 
 ## Książki
 
-![](/resources/img/books.gif)
+![](./resources/img/books.gif)
 
 <aside class="notes">
 - Skąd brać?

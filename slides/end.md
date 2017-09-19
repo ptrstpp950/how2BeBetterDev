@@ -1,1 +1,1 @@
-![](/resources/img/motivation.jpg)
+![](./resources/img/motivation.jpg)

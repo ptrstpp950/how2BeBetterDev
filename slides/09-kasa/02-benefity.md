@@ -1,6 +1,6 @@
 ## Benefity
 
-![](/resources/img/benefity.png)
+![](./resources/img/benefity.png)
 
 <aside class="notes">
 A czego brakuje? Gdzie książki/szkolenia/konferencje?

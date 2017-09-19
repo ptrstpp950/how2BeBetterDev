@@ -1,4 +1,4 @@
-![](/resources/img/devwarszaty.jpg)
+![](./resources/img/devwarszaty.jpg)
 
 - szkolenia płatne
 - meeetupy

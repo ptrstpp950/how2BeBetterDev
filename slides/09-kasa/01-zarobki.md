@@ -1,3 +1,3 @@
 ## Zarobki
 
-![](/resources/img/kasa.png)
+![](./resources/img/kasa.png)

@@ -1,6 +1,6 @@
 
 ## Goodreads
-![](/resources/img/goodreads.jpg)
+![](./resources/img/goodreads.jpg)
 
 Kogo sledzić
 

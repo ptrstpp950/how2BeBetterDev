@@ -1,1 +1,1 @@
-![](/resources/img/the-most-dangerous-phrase.jpg)
+![](./resources/img/the-most-dangerous-phrase.jpg)

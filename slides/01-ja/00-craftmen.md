@@ -1,2 +1,2 @@
 ## Rzemieślnik
-![](/resources/img/craft-tools.jpg)
+![](./resources/img/craft-tools.jpg)

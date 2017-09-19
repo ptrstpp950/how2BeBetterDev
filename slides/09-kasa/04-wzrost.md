@@ -1,4 +1,4 @@
 ## Nerd
 
-![](/resources/img/nerds.gif)
+![](./resources/img/nerds.gif)
 

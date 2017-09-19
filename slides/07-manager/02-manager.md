@@ -1,1 +1,1 @@
-![](/resources/img/it-manager.jpg)
+![](./resources/img/it-manager.jpg)

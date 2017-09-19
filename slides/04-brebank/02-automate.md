@@ -1,3 +1,3 @@
 ## Po grzyba mi DevOps?
 
-![](/resources/img/automate-all-the-things.jpg)
+![](./resources/img/automate-all-the-things.jpg)
